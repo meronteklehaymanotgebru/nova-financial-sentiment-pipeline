@@ -57,3 +57,11 @@ jupyter lab notebooks/
 # Or run EDA script directly
 python scripts/eda_news_data.py
 
+### System Architecture
+![Architecture Diagram](reports/architecture_diagram.png)
+
+### Investment Strategy Framework
+![Decision Tree](reports/strategy_decision_tree.png)
+
+### Analysis Dashboard
+![Dashboard](reports/final_dashboard_collage.png)
